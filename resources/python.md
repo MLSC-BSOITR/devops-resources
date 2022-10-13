@@ -21,6 +21,7 @@ Name | Description
 [Mode Python Tutorial](https://mode.com/python-tutorial) | Python Tutorial
 [Khan Academy](https://www.khanacademy.org) | Python courses and lessons
 [Python resources for everybody](https://learnbyexample.github.io/py_resources) | Python written resources
+[JavaTPoint](https://www.javatpoint.com/python-tutorial)| Python written resources
 
 ## Modules
 
